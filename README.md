@@ -42,8 +42,6 @@ To build an interactive word guessing game and understand core Python programmin
 python hangman.py
 ```
 
-### 📸 Output
-
 ## 📸 Output
 
 ![Hangman Game Output](output_screenshot.png)
